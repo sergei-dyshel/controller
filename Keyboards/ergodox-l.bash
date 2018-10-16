@@ -33,7 +33,7 @@ DefaultMap="qyron/MDErgo1-Default-0 infinity_ergodox/lcdFuncMap"
 #       PartialMaps[2]="layer2"
 #       PartialMaps[3]="layer3"
 PartialMaps[1]="qyron/MDErgo1-Default-1 infinity_ergodox/lcdFuncMap"
-PartialMaps[2]="qyron/MDErgo1-Default-2 infinity_ergodox/lcdFuncMap"
+# PartialMaps[2]="qyron/MDErgo1-Default-2 infinity_ergodox/lcdFuncMap"
 
 
 
